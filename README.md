@@ -2,7 +2,7 @@
 
 > "Code is poetry, and backend is its rhythm."
 
-I'm a backend developer with 2+ years experience in PHP. My passion is building scalable and reliable server-side applications that solve real-world problems.
+I'm a backend developer with 3+ years experience in PHP. My passion is building scalable and reliable server-side applications that solve real-world problems.
 
 ## 🛠️ Technologies & Skills
 
